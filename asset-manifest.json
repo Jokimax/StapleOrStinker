@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/StapleorStinker/static/css/main.67bf0fcf.css",
-    "main.js": "/StapleorStinker/static/js/main.110dc746.js",
+    "main.css": "/StapleorStinker/static/css/main.379d74de.css",
+    "main.js": "/StapleorStinker/static/js/main.025c7233.js",
     "index.html": "/StapleorStinker/index.html",
-    "main.67bf0fcf.css.map": "/StapleorStinker/static/css/main.67bf0fcf.css.map",
-    "main.110dc746.js.map": "/StapleorStinker/static/js/main.110dc746.js.map"
+    "main.379d74de.css.map": "/StapleorStinker/static/css/main.379d74de.css.map",
+    "main.025c7233.js.map": "/StapleorStinker/static/js/main.025c7233.js.map"
   },
   "entrypoints": [
-    "static/css/main.67bf0fcf.css",
-    "static/js/main.110dc746.js"
+    "static/css/main.379d74de.css",
+    "static/js/main.025c7233.js"
   ]
 }
